@@ -14,3 +14,19 @@ code {
   src: local('Fontjek'), url(./fonts/Fontjek.ttf) format('truetype');
 
 }
+
+.soundButton {
+  font-family: 'Fontjek';
+  color: white;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  font-family: 'Fontjek';
+  color: #163A67;
+  border-radius: 40px;
+  cursor: pointer;
+
+}
