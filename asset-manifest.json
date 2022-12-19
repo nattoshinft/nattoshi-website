@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/nattoshi-website/static/css/main.9177952b.css",
-    "main.js": "/nattoshi-website/static/js/main.fe535c5f.js",
-    "static/js/787.ba2b3b1a.chunk.js": "/nattoshi-website/static/js/787.ba2b3b1a.chunk.js",
-    "static/media/My Chemical Romance - Helena.mp3": "/nattoshi-website/static/media/My Chemical Romance - Helena.1b0ab1a582dfe34d5b2c.mp3",
-    "static/media/NATTOSHI_draft2.png": "/nattoshi-website/static/media/NATTOSHI_draft2.10eff78819d28cc48331.png",
-    "static/media/Fontjek.ttf": "/nattoshi-website/static/media/Fontjek.5b8bb01fda9a4661c0e1.ttf",
-    "static/media/PHOTO-2022-12-15-19-44-19 2.jpg": "/nattoshi-website/static/media/PHOTO-2022-12-15-19-44-19 2.b0ce6b24dd2219ffb751.jpg",
-    "index.html": "/nattoshi-website/index.html",
-    "main.9177952b.css.map": "/nattoshi-website/static/css/main.9177952b.css.map",
-    "main.fe535c5f.js.map": "/nattoshi-website/static/js/main.fe535c5f.js.map",
-    "787.ba2b3b1a.chunk.js.map": "/nattoshi-website/static/js/787.ba2b3b1a.chunk.js.map"
+    "main.css": "/static/css/main.763673e0.css",
+    "main.js": "/static/js/main.5cd4f5e3.js",
+    "static/js/787.ba2b3b1a.chunk.js": "/static/js/787.ba2b3b1a.chunk.js",
+    "static/media/My Chemical Romance - Helena.mp3": "/static/media/My Chemical Romance - Helena.1b0ab1a582dfe34d5b2c.mp3",
+    "static/media/NATTOSHI_draft2.png": "/static/media/NATTOSHI_draft2.10eff78819d28cc48331.png",
+    "static/media/Fontjek.ttf": "/static/media/Fontjek.5b8bb01fda9a4661c0e1.ttf",
+    "static/media/PHOTO-2022-12-15-19-44-19 2.jpg": "/static/media/PHOTO-2022-12-15-19-44-19 2.b0ce6b24dd2219ffb751.jpg",
+    "index.html": "/index.html",
+    "main.763673e0.css.map": "/static/css/main.763673e0.css.map",
+    "main.5cd4f5e3.js.map": "/static/js/main.5cd4f5e3.js.map",
+    "787.ba2b3b1a.chunk.js.map": "/static/js/787.ba2b3b1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9177952b.css",
-    "static/js/main.fe535c5f.js"
+    "static/css/main.763673e0.css",
+    "static/js/main.5cd4f5e3.js"
   ]
 }
